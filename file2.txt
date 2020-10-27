@@ -1,1 +1,2 @@
 Doing changes in this file
+This is the second line in the file
